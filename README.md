@@ -28,7 +28,7 @@ TaskMaster là một ứng dụng Android đơn giản nhưng mạnh mẽ, giúp
 
 1.  **Clone a repository về máy:**
     ```bash
-    https://github.com/MasterCloudes/Taskify.git
+    git clone https://github.com/MasterCloudes/Taskify.git
     ```
 2.  **Mở dự án** bằng Android Studio.
 3.  Đợi Gradle đồng bộ hóa tất cả các thư viện cần thiết.
