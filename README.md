@@ -11,11 +11,25 @@ TaskMaster là một ứng dụng Android đơn giản nhưng mạnh mẽ, giúp
 
 ## 📸 Ảnh chụp màn hình
 
-*Bạn nên thêm ảnh chụp màn hình ứng dụng của mình vào đây để README thêm phần sinh động.*
+Dưới đây là một số ảnh chụp màn hình đại diện cho các luồng hoạt động chính của ứng dụng.
 
-| Màn hình chờ | Màn hình đăng nhập | Màn hình chính |
+**1. Luồng Xác thực & Quản lý Tài khoản**
+
+| Màn hình chờ | Đăng nhập | Đăng ký | Quên mật khẩu |
+| :---: |:---:|:---:|:---:|
+| ![Màn hình chờ](screenshots/SplashActivity.png) | ![Màn hình đăng nhập](screenshots/LoginActivity.png) | ![Màn hình đăng ký](screenshots/RegisterActivity.png) | ![Quên mật khẩu](screenshots/ForgotPasswordActivity.png) |
+
+| Đặt lại mật khẩu | Sửa thông tin | Giới thiệu |
 | :---: |:---:|:---:|
-| *(Ảnh màn hình chờ)* | *(Ảnh màn hình đăng nhập)* | *(Ảnh màn hình chính)* |
+| ![Đặt lại mật khẩu](screenshots/ResetPasswordActivity.png) | ![Sửa thông tin](screenshots/DialogEditInfo.png) | ![Giới thiệu](screenshots/AboutActivity.png) |
+
+
+**2. Luồng Quản lý Công việc**
+
+| Màn hình chính | Thêm công việc | Sửa công việc |
+| :---: |:---:|:---:|
+| ![Màn hình chính](screenshots/MainTaskList.png) | ![Dialog Thêm công việc](screenshots/DialogAdd.png) | ![Dialog Sửa công việc](screenshots/DialogEditTask.png) |
+
 
 ## 🛠️ Công nghệ sử dụng
 
